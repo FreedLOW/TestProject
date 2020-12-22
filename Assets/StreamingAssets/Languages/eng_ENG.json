@@ -1,0 +1,7 @@
+{
+  "information": [
+    "Shape - Cube.\n\nVolume - 1 m^3.\n\nColor - gold.",
+    "Shape - Capsule.\n\nVolume - 1,5 m^3.\n\nColor - yellow.",
+    "Shape - Cylinder.\n\nVolume - 2 m^3.\n\nColor - green."
+  ]
+}
